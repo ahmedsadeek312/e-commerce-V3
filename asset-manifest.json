@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-V3/static/css/main.921c124b.css",
+    "main.js": "/E-Commerce-V3/static/js/main.8156958b.js",
+    "static/js/787.bf5d90cc.chunk.js": "/E-Commerce-V3/static/js/787.bf5d90cc.chunk.js",
+    "static/media/pngwing.com.png": "/E-Commerce-V3/static/media/pngwing.com.76d01308913eb56d9434.png",
+    "index.html": "/E-Commerce-V3/index.html",
+    "main.921c124b.css.map": "/E-Commerce-V3/static/css/main.921c124b.css.map",
+    "main.8156958b.js.map": "/E-Commerce-V3/static/js/main.8156958b.js.map",
+    "787.bf5d90cc.chunk.js.map": "/E-Commerce-V3/static/js/787.bf5d90cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.921c124b.css",
+    "static/js/main.8156958b.js"
+  ]
+}
